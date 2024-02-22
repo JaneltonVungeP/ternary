@@ -38,7 +38,7 @@ namespace ternary
             Console.WriteLine(string.Empty);
             Console.WriteLine(string.Empty);
             // Contar quantas vezes "elemento2" aparece na lista
-            int contagem = listas.Count(item => item == "thokozile");
+            int contagem = listas.Count(item => item == "vieira");
             Console.WriteLine(contagem);  // Isto irá imprimir o número de vezes que "elemento2" aparece na lista
 
 
